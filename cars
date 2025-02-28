@@ -1,0 +1,25 @@
+package MODULE1;
+
+import java.util.Scanner;
+
+public class cars {
+	public void display() {
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Scanner s=new Scanner (System.in);
+		
+		System.o
+		System.out.println("enter the car code");
+		String s1=s.nextLine();
+		System.out.println("enter the car name");
+		String s2=s.nextLine();
+		System.out.println("enter the car price");
+		String s3=s.nextInt();
+		
+	}
+
+}
